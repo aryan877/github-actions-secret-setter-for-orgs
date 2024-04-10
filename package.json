@@ -1,0 +1,16 @@
+{
+  "name": "github-secret-pusher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "github-secret.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^20.1.0",
+    "dotenv": "^16.4.5",
+    "libsodium-wrappers": "^0.7.13"
+  }
+}
